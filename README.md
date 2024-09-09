@@ -21,8 +21,8 @@ To get a local copy up and running follor these simple steps.
 2. install pip dependencies.
    pip install pygame
 
-   ## Usage
-   1. run project
+## Ussage
+1. run project
 
 ## Author
 Samuel Uribe Villegas
