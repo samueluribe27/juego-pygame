@@ -1,4 +1,5 @@
-# juego-pygam
+# juego-pygame
+Este es un programa donde se simula un juego donde el usuario elige un nivel del 1 al 3, y según este nivel deberá esquivar los enemigos del juego (mientras mayor sea el nivel, más enemigos se encontrará).
 
 ## Built with
 -python
