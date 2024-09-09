@@ -18,7 +18,7 @@ To get a local copy up and running follor these simple steps.
 1. Clone the repo.
    git clone https://github.com/samueluribe27/juego-pygame
 
-2. install pip dependencies
+2. install pip dependencies.
    pip install pygame
 
 ## Author
