@@ -1,6 +1,6 @@
-# juego-pygame
+# juego-pygam
 
-##built with
+## Built with
 -python
 -pygame
 
